@@ -9,8 +9,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: {
+          DEFAULT: '#28a745', // Your primary brand color
+          dark: '#218838',
+        },
+        secondary: {
+          DEFAULT: '#6c757d',
+        },
       },
     },
   },
