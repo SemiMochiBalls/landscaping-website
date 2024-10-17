@@ -1,4 +1,3 @@
-// src/components/Testimonials.tsx
 'use client';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -59,7 +58,7 @@ export default function Testimonials() {
           {testimonials.map((testimonial, index) => (
             <SwiperSlide key={index}>
               <div className="p-6">
-                <p className="italic text-lg">"{testimonial.feedback}"</p>
+                <p className="italic text-lg">&quot;{testimonial.feedback}&quot;</p>
                 <h4 className="mt-4 font-semibold text-gray-700">
                   - {testimonial.name}
                 </h4>

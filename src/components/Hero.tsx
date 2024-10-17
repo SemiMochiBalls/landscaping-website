@@ -1,4 +1,3 @@
-// src/components/Hero.tsx
 'use client';
 
 import { useState } from 'react';
