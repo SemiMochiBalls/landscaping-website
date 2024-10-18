@@ -11,19 +11,12 @@ This is a Next.js 14 website project created for **Canuck Green Spaces**, a land
 - [Packages Used](#packages-used)
 - [License](#license)
 
-## Features
-
-- **Service Listings**: Display landscaping services offered by the business.
-- **Booking System**: Allows users to request service appointments online.
-- **Email & SMS Notifications**: Automatically notifies clients upon booking.
-- **Invoicing Integration**: QuickBooks integration for automatic invoice generation.
 
 ## Tech Stack
 
 - **Frontend**: ReactJS, Tailwind CSS, TypeScript
 - **Backend**: Next.js 14 API Routes
-- **Database**: To be determined (or mention the database if one is used)
-- **Invoicing**: QuickBooks integration
+
 
 ## Packages Used
 
