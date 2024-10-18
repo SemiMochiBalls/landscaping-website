@@ -43,6 +43,6 @@ This project uses the following packages:
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/canuck-green-spaces.git
+git clone https://github.com/SemiMochiBalls/canuck-green-spaces.git
 cd canuck-green-spaces
 npm install
