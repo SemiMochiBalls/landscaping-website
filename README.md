@@ -33,10 +33,6 @@ This project uses the following packages:
 - `react`: Core library for building the UI components.
 - `typescript`: Provides type safety and improves code maintainability.
 - `tailwindcss`: Utility-first CSS framework for styling.
-- `axios`: Promise-based HTTP client for making API requests.
-- `quickbooks`: Integration for managing invoices.
-- `twilio`: For sending SMS notifications to users upon service bookings.
-- `nodemailer`: Sends emails to users automatically upon booking.
 
 ## Installation
 
